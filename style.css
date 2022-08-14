@@ -1,0 +1,16 @@
+.colunm{
+    border: 1px solid black;
+}
+
+.row{
+    border: 1px solid black;
+    width: 35px;
+}
+
+.tr,td{
+    border: 1px solid black;
+}
+
+.colunm:hover, .row:hover{
+    background-color: aqua;
+}
